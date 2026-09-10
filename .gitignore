@@ -1,3 +1,4 @@
+#archivos genericos
 *.log
 .vscode
 .DS_Store
@@ -5,3 +6,28 @@ Thumbs.bd
 .env
 /tmp
 ReadmeInstall.md
+
+#node js
+
+node_modules/
+.env.local
+*.log
+dist/
+build/
+out/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+.cache/
+.eslintcache
+.npm
+*.tsbuildinfo
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
